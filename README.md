@@ -1,5 +1,5 @@
 # Bus-Reservation-System
-A Simple Bus Ticket Reservation System done with Java Programming Language 
+This is a simple bus ticket reservation system implemented in Java. The project demonstrates basic functionality for booking bus tickets without database connectivity, using Java Collections (ArrayList) to store bus and booking data.
 
 Features:
 List available buses with their details.
