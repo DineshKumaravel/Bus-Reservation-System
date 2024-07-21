@@ -1,5 +1,5 @@
 import java.util.*;
-public class Reservation {
+public class Main {
     public static void main(String[] args) {
 
         ArrayList<Bus> buses=new ArrayList<Bus>();      //using Collections(ArrayList) to store multiple bus objects instead of using data base connectivity          
